@@ -3,7 +3,7 @@ Public Class HelloWorld{
 
     System.out.println(">>>>>>>>>>>>>>This is Hello World<<<<<<<<<<<<");
     System.out.println(">>>>>>>>>>>>>>This is Jenkins World<<<<<<<<<<<<");
-    System.out.println(">>>>>>>>>>>>>>this is trigger testing<<<<<<<<<<<");
+    System.out.println(">>>>>>>>>>>>>>this is trigger testing<<<<<<<<");
 
 }
 }
